@@ -1,0 +1,12 @@
+# Environments
+.env
+
+env/
+
+ENV/
+
+### Vagrant ###
+# General
+.vagrant/
+### Vagrant Patch ###
+*.box
